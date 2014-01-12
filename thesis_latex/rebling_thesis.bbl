@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{2000_Amos_Lessonsfromhistory}
+B.~Amos.
+\newblock \enquote{Lessons from the history of light microscopy.}
+\newblock \emph{Nature cell biology} (2000).
+\newblock vol.~2(8):pp. E151--E152.
+\newblock \urlprefix\url{http://dx.doi.org/10.1038/35019639}.
+
+\bibitem{2000_Fujimoto_Opticalcoherencetomography:}
+J.~Fujimoto, C.~Pitris et~al.
+\newblock \enquote{Optical coherence tomography: an emerging technology for
+  biomedical imaging and optical biopsy.}
+\newblock \emph{Neoplasia {(New} York, {N.Y.)}} (2000).
+\newblock vol.~2(1-2):pp. 9--25.
+
+\end{thebibliography}

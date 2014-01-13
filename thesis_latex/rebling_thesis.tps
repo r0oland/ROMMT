@@ -18,7 +18,7 @@ Document=rebling_thesis.tex
 
 [Frame0_View0,0]
 TopLine=42
-Cursor=2662
+Cursor=1907
 
 [Frame1]
 Flags=0
@@ -35,8 +35,8 @@ Class=LaTeXView
 Document=tex\1_intro.tex
 
 [Frame1_View0,0]
-TopLine=0
-Cursor=2098
+TopLine=36
+Cursor=4540
 
 [SessionInfo]
 FrameCount=2

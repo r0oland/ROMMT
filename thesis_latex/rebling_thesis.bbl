@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -16,5 +16,71 @@ J.~Fujimoto, C.~Pitris et~al.
   biomedical imaging and optical biopsy.}
 \newblock \emph{Neoplasia {(New} York, {N.Y.)}} (2000).
 \newblock vol.~2(1-2):pp. 9--25.
+
+\bibitem{2005_Ntziachristos_Lookingandlistening}
+V.~Ntziachristos, J.~Ripoll et~al.
+\newblock \enquote{Looking and listening to light: the evolution of whole-body
+  photonic imaging.}
+\newblock \emph{Nature biotechnology} (2005).
+\newblock vol.~23(3):pp. 313--320.
+\newblock \urlprefix\url{http://dx.doi.org/10.1038/nbt1074}.
+
+\bibitem{2013_Omar_Rasterscanoptoacoustic}
+M.~Omar, J.~Gateau et~al.
+\newblock \enquote{Raster-scan optoacoustic mesoscopy in the 25-125 {MHz}
+  range.}
+\newblock \emph{Optics letters} (2013).
+\newblock vol.~38(14):pp. 2472--2474.
+\newblock \urlprefix\url{http://dx.doi.org/10.1364/OL.38.002472}.
+
+\bibitem{2003_Wang_Noninvasivelaserinduced}
+X.~Wang, Y.~Pang et~al.
+\newblock \enquote{Noninvasive laser-induced photoacoustic tomography for
+  structural and functional in vivo imaging of the brain.}
+\newblock \emph{Nature biotechnology} (2003).
+\newblock vol.~21(7):pp. 803--806.
+\newblock \urlprefix\url{http://dx.doi.org/10.1038/nbt839}.
+
+\bibitem{2004_Wang_Noninvasivephotoacousticangiography}
+X.~Wang, G.~Ku et~al.
+\newblock \enquote{Noninvasive photoacoustic angiography of animal brains in
+  vivo with near-infrared light and an optical contrast agent.}
+\newblock \emph{Optics letters} (2004).
+\newblock vol.~29(7):pp. 730--732.
+
+\bibitem{2001_ScusselLonzetti_UpdatingAmericanCollege}
+L.~Scussel~Lonzetti, F.~Joyal et~al.
+\newblock \enquote{Updating the american college of rheumatology preliminary
+  classification criteria for systemic sclerosis: Addition of severe nailfold
+  capillaroscopy abnormalities markedly increases the sensitivity for limited
+  scleroderma.}
+\newblock \emph{Arthritis \& Rheumatism} (2001).
+\newblock vol.~44(3):pp. 735--736.
+\newblock
+  \urlprefix\url{http://dx.doi.org/10.1002/1529-0131(200103)44:3<735::AID-ANR125>3.0.CO;2-F}.
+
+\bibitem{2006_Cutolo_Nailfoldcapillaroscopyis}
+M.~Cutolo, A.~Sulli et~al.
+\newblock \enquote{Nailfold capillaroscopy is useful for the diagnosis and
+  follow-up of autoimmune rheumatic diseases. a future tool for the analysis of
+  microvascular heart involvement?}
+\newblock \emph{Rheumatology} (2006).
+\newblock vol.~45(suppl 4):pp. iv43--iv46.
+\newblock \urlprefix\url{http://dx.doi.org/10.1093/rheumatology/kel310}.
+
+\bibitem{2006_Li_Improvedinvivo}
+M.-L. Li, H.~F. Zhang et~al.
+\newblock \enquote{Improved in vivo photoacoustic microscopy based on a
+  virtual-detector concept.}
+\newblock \emph{Optics Letters} (2006).
+\newblock vol.~31(4):p. 474.
+\newblock \urlprefix\url{http://dx.doi.org/10.1364/OL.31.000474}.
+
+\bibitem{2012_Ma_Fastscanningcoaxial}
+R.~Ma, S.~S~\"ontges et~al.
+\newblock \enquote{Fast scanning coaxial optoacoustic microscopy.}
+\newblock \emph{Biomedical optics express} (2012).
+\newblock vol.~3(7):pp. 1724--1731.
+\newblock \urlprefix\url{http://dx.doi.org/10.1364/BOE.3.001724}.
 
 \end{thebibliography}

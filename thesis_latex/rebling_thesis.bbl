@@ -3,6 +3,29 @@
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
+\bibitem{2012_Liang_BiomedicalOpticalImaging}
+R.~Liang, editor.
+\newblock \emph{Biomedical Optical Imaging Technologies: Design and
+  Applications (Biological and Medical Physics, Biomedical Engineering)}.
+\newblock Springer, 2013 edn. (9 2012).
+\newblock ISBN 9783642283901.
+\newblock \urlprefix\url{http://amazon.com/o/ASIN/364228390X/}.
+
+\bibitem{2010_Hu_Photoacousticimagingand}
+S.~Hu \& L.~Wang.
+\newblock \enquote{Photoacoustic imaging and characterization of the
+  microvasculature.}
+\newblock \emph{Journal of biomedical optics} (2010).
+\newblock vol.~15(1).
+\newblock \urlprefix\url{http://dx.doi.org/10.1117/1.3281673}.
+
+\bibitem{2011_Beard_Biomedicalphotoacousticimaging.}
+P.~Beard.
+\newblock \enquote{Biomedical photoacoustic imaging.}
+\newblock \emph{Interface focus} (2011).
+\newblock vol.~1(4):pp. 602--631.
+\newblock \urlprefix\url{http://dx.doi.org/10.1098/rsfs.2011.0028}.
+
 \bibitem{2000_Amos_Lessonsfromhistory}
 B.~Amos.
 \newblock \enquote{Lessons from the history of light microscopy.}
@@ -76,8 +99,15 @@ M.-L. Li, H.~F. Zhang et~al.
 \newblock vol.~31(4):p. 474.
 \newblock \urlprefix\url{http://dx.doi.org/10.1364/OL.31.000474}.
 
+\bibitem{2004_Liao_Optoacousticimagingwith}
+C.~Liao, M.~Li et~al.
+\newblock \enquote{Optoacoustic imaging with synthetic aperture focusing and
+  coherence weighting.}
+\newblock \emph{Optics letters} (2004).
+\newblock vol.~29(21):pp. 2506--2508.
+
 \bibitem{2012_Ma_Fastscanningcoaxial}
-R.~Ma, S.~S~\"ontges et~al.
+R.~Ma, S.~S\"ontges et~al.
 \newblock \enquote{Fast scanning coaxial optoacoustic microscopy.}
 \newblock \emph{Biomedical optics express} (2012).
 \newblock vol.~3(7):pp. 1724--1731.
